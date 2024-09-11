@@ -11,3 +11,5 @@ dict.update([other]), dict.get(key[,default]), dict.items() , dict.popitem(), di
 set.add(elem), len(s), x in s, set.remove(elem), set.discard(elem) 
 
 S[i], len(S), S.split(символ), S.find(str, [start],[end]), S.replace(шаблон, замена[, maxcount])
+
+..
